@@ -19,11 +19,11 @@ RBG-Maxwell (**<font color="#dd0000">R</font>**elativistic **<font color="#0000d
 
 - Simulate the collision-less plasma systems with electrostatic/low frequency electromagnetic fields
 
-  [Utilization of the RBG-Maxwell framework for collisionless plasma at atmospheric scales](https://arxiv.org/abs/2209.07944).
+  [Utilization of the RBG-Maxwell framework for collisionless plasma at atmospheric scales].
 
 - Simulate the pre-equilibrium state of quark-gluon plasma in high energy heavy-ion collisions.
 
-   [Two typical collective behaviors of the heavy ions expanding in cold plasma with ambient magnetic field](https://arxiv.org/pdf/2104.03450.pdf)
+   [Two typical collective behaviors of the heavy ions expanding in cold plasma with ambient magnetic field](https://arxiv.org/abs/2104.03450)
 
 - Simulate the solar plasma in collisions.
 
